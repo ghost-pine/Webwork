@@ -1,0 +1,44 @@
+[
+  {
+    "icon": "/assets/img/icons/service2-icon1.png",
+    "title": "Consulting Service",
+    "desc": "Strategic IT planning  roadmap development Business process analysis and improvement for It solution & technology.",   
+    "btnLink": "/service/service-details",
+    "addClass": "servcie2-box"
+  },
+  {
+    "icon": "/assets/img/icons/service2-icon2.png",
+    "title": "Software Development",
+    "desc": "Mobile app development for iOS, Android, and cross-platform solutions & web application improvement.",   
+    "btnLink": "/service/service-details",
+    "addClass": "servcie2-box active"
+  },
+  {
+    "icon": "/assets/img/icons/service2-icon3.png",
+    "title": "Cloud Solution",
+    "desc": "Infrastructure as a Service (IaaS), Platform as a Service (PaaS),  and Software as a Service (SaaS) Platform",   
+    "btnLink": "/service/service-details",
+    "addClass": "servcie2-box"
+  },
+  {
+    "icon": "/assets/img/icons/service2-icon4.png",
+    "title": "Cyber Security",
+    "desc": "Threat assessment and vulnerability analysis. Security strategy development and implementation",   
+    "btnLink": "/service/service-details",
+    "addClass": "servcie2-box"
+  },
+  {
+    "icon": "/assets/img/icons/service2-icon5.png",
+    "title": "Data Analytics",
+    "desc": "Data visualization and business intelligence solutions Predictive analytics and machine learning solutions",   
+    "btnLink": "/service/service-details",
+    "addClass": "servcie2-box"
+  },
+  {
+    "icon": "/assets/img/icons/service2-icon6.png",
+    "title": "Manage It Services",
+    "desc": "Proactive IT monitoring and management Network infrastructure setup and maintenance Services infrastructure",   
+    "btnLink": "/service/service-details",
+    "addClass": "servcie2-box"
+  }   
+]

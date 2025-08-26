@@ -1,0 +1,44 @@
+[
+  {
+    "subtitle": "Step 01",
+    "title": "Initial Consultation",
+    "desc": "During this meeting, we'll take the time to understand your unique needs and goals, allowing us to tailor our solutions to meet your specific requirements.",   
+    "btnLink": "/service/service-details",
+    "addClass": "work4-box heading4"
+  },
+  {
+    "subtitle": "Step 02",
+    "title": "Assessment and Planning",
+    "desc": "We'll identify areas for improvement, evaluate potential risks, and develop a strategic plan to address your immediate needs and long-term goals.",   
+    "btnLink": "/service/service-details",
+    "addClass": "work4-box active heading4"
+  },
+  {
+    "subtitle": "Step 03",
+    "title": "Solution Design & Development",
+    "desc": "Whether it's implementing a new network infrastructure, migrating to the cloud, or developing custom software applications our team will work tirelessly to ensure.",   
+    "btnLink": "/service/service-details",
+    "addClass": "work4-box heading4"
+  },
+  {
+    "subtitle": "Step 04",
+    "title": "Implementation & Deployment",
+    "desc": "With the assessment complete and the plan in place, we'll begin designing and developing customized IT solutions to meet your requirements.",   
+    "btnLink": "/service/service-details",
+    "addClass": "work4-box heading4"
+  },
+  {
+    "subtitle": "Step 05",
+    "title": "Training & Support",
+    "desc": "As part of our commitment to your success, we'll provide comprehensive training to your staff to ensure they are comfortable and confident technology.",   
+    "btnLink": "/service/service-details",
+    "addClass": "work4-box heading4"
+  },
+  {
+    "subtitle": "Step 06",
+    "title": "Monitoring & Optimisation",
+    "desc": "Whether it's implementing a new network infrastructure, migrating to the cloud, or developing custom software applications our team will work tirelessly to ensure.",   
+    "btnLink": "/service/service-details",
+    "addClass": "work4-box heading4"
+  }     
+]

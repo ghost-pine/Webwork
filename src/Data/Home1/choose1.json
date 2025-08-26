@@ -1,0 +1,17 @@
+[
+  {
+    "img": "/assets/img/icons/work-iocn1.png",  
+    "title": "Network Infrastructure Solutions",
+    "desc": "Build a reliable and secure network infrastructure that supports your business operations enables seamless"
+  },
+  {
+    "img": "/assets/img/icons/work-iocn2.png",  
+    "title": "Managed It Servicesd",
+    "desc": "Focus on your core business activities while we take care of your IT needs with our managed IT services."
+  },
+  {
+    "img": "/assets/img/icons/work-iocn3.png",  
+    "title": "Data Backup & Disaster Recovery",
+    "desc": "Protect your critical business data and ensure business continuity with our data backup and disaster solution."
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "icon": "/assets/img/work/work2-img1.png",
+    "title": "Discovery & Consultation",
+    "desc": "The journey begins with a thorough discovery phase where we take the time to understand your business, goals, and challenges. Our experienced team will work closely with you to assess your needs and objectives.",   
+    "btnLink": "/service/service-details",
+    "addClass": "col-lg-7"
+  },
+  {
+    "icon": "/assets/img/work/work2-img2.png",
+    "title": "Implementation & Integration",
+    "desc": "Once we have a clear understanding of your requirements, our expert team will design a custom solution tailored to your specific needs.",   
+    "btnLink": "/service/service-details",
+    "addClass": "col-lg-5"
+  },
+  {
+    "icon": "/assets/img/work/work2-img3.png",
+    "title": "Cybersecurity & Compliance",
+    "desc": "With the solution blueprint in hand, our team will begin the implementation and integration process solution.",   
+    "btnLink": "/service/service-details",
+    "addClass": "col-lg-4"
+  },
+  {
+    "icon": "/assets/img/work/work2-img4.png",
+    "title": "Testing & Quality Assurance",
+    "desc": "Before deployment, we conduct rigorous testing and quality assurance checks to ensure that your solution meets.",   
+    "btnLink": "/service/service-details",
+    "addClass": "col-lg-4"
+  },
+  {
+    "icon": "/assets/img/work/work2-img5.png",
+    "title": "Deployment & Training",
+    "desc": "Once testing is complete and your solution is ready to go, we'll handle the deployment process with precision and care.",   
+    "btnLink": "/service/service-details",
+    "addClass": "col-lg-4"
+  }   
+]

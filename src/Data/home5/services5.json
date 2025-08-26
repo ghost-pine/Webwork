@@ -1,0 +1,23 @@
+[
+  {
+    "icon": "/assets/img/icons/service7-icon1.svg",
+    "title": "Software Development and Integration",
+    "desc": "IT solutions designed to streamline your operations, enhance security, and drive innovation.",   
+    "btnLink": "/service/service-details",
+    "image1": "/assets/img/service/service7-img1.png"
+  },
+  {
+    "icon": "/assets/img/icons/service7-icon2.svg",
+    "title": "Unified Communications and Collaboration",
+    "desc": "From cloud infrastructure management and cybersecurity solutions to data analytics, network optimization",   
+    "btnLink": "/service/service-details",
+    "image1": "/assets/img/service/service7-img2.png"
+  },
+  {
+    "icon": "/assets/img/icons/service7-icon3.svg",
+    "title": "Network Optimization Services Managed IT Services",
+    "desc": "Whether you're looking to enhance productivity, improve efficiency, or stay ahead of technological",   
+    "btnLink": "/service/service-details",
+    "image1": "/assets/img/service/service7-img3.png"
+  }  
+]

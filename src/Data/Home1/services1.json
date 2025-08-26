@@ -1,0 +1,42 @@
+[
+  {
+    "icon": "/assets/img/icons/service-icon1.png",
+    "title": "Cloud Computing Solutions",
+    "desc": "Harness the power of the cloud with our robust cloud computing solutions. Whether you're looking to migrate to the cloud, optimize your existing infrastructure, or build scalable cloud-native.",   
+    "btnText": "Learn More",
+    "btnLink": "/service/service-details",
+    "addClass": "col-lg-6"
+  },
+  {
+    "icon": "/assets/img/icons/service-icon2.png",
+    "title": "Data Analytics & Business Intelligence",
+    "desc": "Unlock actionable insights and drive informed decision-making with our advanced data analytics and business intelligence services. Our data-driven approach empowers you to harness the full potential.",   
+    "btnText": "Learn More",
+    "btnLink": "/service/service-details",
+    "addClass": "col-lg-6"
+  },
+  {
+    "icon": "/assets/img/icons/service-icon3.png",
+    "title": "Cybersecurity & Compliance",
+    "desc": "Protect your business from evolving cyber threats and ensure compliance with industry regulations with comprehensive.",   
+    "btnText": "Learn More",
+    "btnLink": "/service/service-details",
+    "addClass": "col-lg-4"
+  },
+  {
+    "icon": "/assets/img/icons/service-icon4.png",
+    "title": "Software Development",
+    "desc": "Transform your ideas into reality with our custom software development and integration services whether you need.",   
+    "btnText": "Learn More",
+    "btnLink": "/service/service-details",
+    "addClass": "col-lg-4"
+  },
+  {
+    "icon": "/assets/img/icons/service-icon5.png",
+    "title": "It Consulting & Support",
+    "desc": "Navigate the complexities of the digital landscape with confidence with our IT consulting and support services.",   
+    "btnText": "Learn More",
+    "btnLink": "/service/service-details",
+    "addClass": "col-lg-4"
+  }   
+]

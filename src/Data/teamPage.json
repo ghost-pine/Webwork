@@ -1,0 +1,62 @@
+[
+  {
+    "icon": "/assets/img/team/team2-img1.png",
+    "title": "John Doe",
+    "desc": "CEO & Founder"
+  },
+  {
+    "icon": "/assets/img/team/team2-img2.png",
+    "title": "Jane Smith",
+    "desc": "Chef Technology Officer"
+  },
+  {
+    "icon": "/assets/img/team/team2-img3.png",
+    "title": "Sarah Thompson",
+    "desc": "Head of Project Management"
+  },
+  {
+    "icon": "/assets/img/team/team2-img4.png",
+    "title": "David Garcia",
+    "desc": "Lead Software Engineer"
+  },
+  {
+    "icon": "/assets/img/team/team2-img5.png",
+    "title": "John Doe",
+    "desc": "CEO & Founder"
+  },
+  {
+    "icon": "/assets/img/team/team2-img6.png",
+    "title": "Jane Smith",
+    "desc": "Chef Technology Officer"
+  },
+  {
+    "icon": "/assets/img/team/team2-img7.png",
+    "title": "Sarah Thompson",
+    "desc": "Head of Project Management"
+  },
+  {
+    "icon": "/assets/img/team/team2-img8.png",
+    "title": "David Garcia",
+    "desc": "Lead Software Engineer"
+  },
+  {
+    "icon": "/assets/img/team/team2-img9.png",
+    "title": "John Doe",
+    "desc": "CEO & Founder"
+  },
+  {
+    "icon": "/assets/img/team/team2-img10.png",
+    "title": "Jane Smith",
+    "desc": "Chef Technology Officer"
+  },
+  {
+    "icon": "/assets/img/team/team2-img11.png",
+    "title": "Sarah Thompson",
+    "desc": "Head of Project Management"
+  },
+  {
+    "icon": "/assets/img/team/team2-img12.png",
+    "title": "David Garcia",
+    "desc": "Lead Software Engineer"
+  }        
+]

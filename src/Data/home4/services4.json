@@ -1,0 +1,30 @@
+[
+  {
+    "icon": "/assets/img/icons/service4-icon1.png",
+    "title": "Data Analytics & Business Intelligence",
+    "desc": "Unlock actionable insights and drive informed decision-making with our advanced",   
+    "btnLink": "/service/service-details",
+    "addClass": "service4-box"
+  },
+  {
+    "icon": "/assets/img/icons/service4-icon2.png",
+    "title": "Cloud Computing <br> Solutions",
+    "desc": "Harness the power of the cloud with our robust cloud computing solutions.",   
+    "btnLink": "/service/service-details",
+    "addClass": "service4-box active"
+  },
+  {
+    "icon": "/assets/img/icons/service4-icon3.png",
+    "title": "Cybersecurity & <br> Compliance",
+    "desc": "Protect your business from evolving cyber threats and ensure compliance.",   
+    "btnLink": "/service/service-details",
+    "addClass": "service4-box"
+  },
+  {
+    "icon": "/assets/img/icons/service4-icon4.png",
+    "title": "IT Consulting & <br> Support",
+    "desc": "Navigate the complexities of the digital landscape with confidence with our IT.",   
+    "btnLink": "/service/service-details",
+    "addClass": "service4-box"
+  }   
+]

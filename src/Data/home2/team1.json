@@ -1,0 +1,22 @@
+[
+  {
+    "img": "/assets/img/team/team2-img1.png",  
+    "title": "John Doe",
+    "desc": "CEO & Founder"
+  },
+  {
+    "img": "/assets/img/team/team2-img2.png",  
+    "title": "Jane Smith",
+    "desc": "Chef Technology Officer"
+  },
+  {
+    "img": "/assets/img/team/team2-img3.png",  
+    "title": "Sarah Thompson",
+    "desc": "Head of Project Management"
+  },  
+  {
+    "img": "/assets/img/team/team2-img4.png",  
+    "title": "David Garcia",
+    "desc": "Lead Software Engineer"
+  }
+]
